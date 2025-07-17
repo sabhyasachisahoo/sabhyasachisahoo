@@ -14,3 +14,5 @@ I'm **Sabhyasachi Sahoo**, a final-year B.Tech CSE student passionate about buil
 🛠 I’m driven by clean UI, strong backend architecture, and solving real-world problems with tech.
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/sabhyasachi-sahoo-234b30272) | [GitHub](https://github.com/sabhyasachisahoo)
+
+![Visitor Count](https://profile-counter.glitch.me/sabhyasachisahoo/count.svg)
