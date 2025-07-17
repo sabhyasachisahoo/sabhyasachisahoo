@@ -15,5 +15,5 @@ I'm **Sabhyasachi Sahoo**, a final-year B.Tech CSE student passionate about buil
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/sabhyasachi-sahoo-234b30272) | [GitHub](https://github.com/sabhyasachisahoo)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsabhyasachisahoo&countColor=%2337d67a)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsabhyasachisahoo&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsabhyasachisahoo)
 
