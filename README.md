@@ -11,7 +11,7 @@ I'm **Sabhyasachi Sahoo**, a final-year B.Tech CSE student passionate about buil
 - StudyBuddy: EdTech platform built at a 12-hour hackathon (Top 10)
 - Digital Wallet API - Backend 
 
-🛠 I’m driven by clean UI, strong backend architecture, and solving real-world problems with tech.
+🛠 I’m driven by clean UI, strong backend architecture, and solving real-world problems with tech.(MERN Stack)
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/sabhyasachi-sahoo-234b30272) | [GitHub](https://github.com/sabhyasachisahoo)
 
