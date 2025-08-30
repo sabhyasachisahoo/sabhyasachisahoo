@@ -9,7 +9,8 @@ I'm **Sabhyasachi Sahoo**, a final-year B.Tech CSE student passionate about buil
 - AI Code Reviewer with React & OpenAI
 - Library Management System (MERN)
 - StudyBuddy: EdTech platform built at a 12-hour hackathon (Top 10)
-- Digital Wallet API - Backend 
+- Digital Wallet API - Backend
+- Some Data Science Projects
 
 🛠 I’m driven by clean UI, strong backend architecture, and solving real-world problems with tech.(MERN Stack)
 
